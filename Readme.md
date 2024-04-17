@@ -1,0 +1,1 @@
+# This is a practice landing page for modern animation website for hackathon
